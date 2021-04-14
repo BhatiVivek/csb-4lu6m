@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bhativivek.github.io/csb-4lu6m/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bhativivek.github.io/csb-4lu6m/static/js/main.6a2c7b43.chunk.js",
+    "main.js.map": "https://bhativivek.github.io/csb-4lu6m/static/js/main.6a2c7b43.chunk.js.map",
+    "runtime-main.js": "https://bhativivek.github.io/csb-4lu6m/static/js/runtime-main.ed37c816.js",
+    "runtime-main.js.map": "https://bhativivek.github.io/csb-4lu6m/static/js/runtime-main.ed37c816.js.map",
+    "static/js/2.4ca04248.chunk.js": "https://bhativivek.github.io/csb-4lu6m/static/js/2.4ca04248.chunk.js",
+    "static/js/2.4ca04248.chunk.js.map": "https://bhativivek.github.io/csb-4lu6m/static/js/2.4ca04248.chunk.js.map",
+    "index.html": "https://bhativivek.github.io/csb-4lu6m/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bhativivek.github.io/csb-4lu6m/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.4ca04248.chunk.js.LICENSE.txt": "https://bhativivek.github.io/csb-4lu6m/static/js/2.4ca04248.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed37c816.js",
+    "static/js/2.4ca04248.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6a2c7b43.chunk.js"
+  ]
+}
